@@ -13,6 +13,9 @@
 		73D2BAA21B72D387001153E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73D2BAA11B72D387001153E7 /* Images.xcassets */; };
 		73D2BAA51B72D387001153E7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 73D2BAA31B72D387001153E7 /* LaunchScreen.xib */; };
 		73D2BAB11B72D387001153E7 /* Years_of_the_DogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D2BAB01B72D387001153E7 /* Years_of_the_DogTests.swift */; };
+		73D2BABB1B72D3AB001153E7 /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D2BABA1B72D3AB001153E7 /* dog.png */; };
+		73D2BABC1B72D3AB001153E7 /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D2BABA1B72D3AB001153E7 /* dog.png */; };
+		73D2BABD1B72D8B2001153E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D2BA9C1B72D387001153E7 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,7 @@
 		73D2BAAA1B72D387001153E7 /* Years of the DogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Years of the DogTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73D2BAAF1B72D387001153E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73D2BAB01B72D387001153E7 /* Years_of_the_DogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Years_of_the_DogTests.swift; sourceTree = "<group>"; };
+		73D2BABA1B72D3AB001153E7 /* dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,7 @@
 				73D2BA9A1B72D387001153E7 /* AppDelegate.swift */,
 				73D2BA9C1B72D387001153E7 /* ViewController.swift */,
 				73D2BA9E1B72D387001153E7 /* Main.storyboard */,
+				73D2BABA1B72D3AB001153E7 /* dog.png */,
 				73D2BAA11B72D387001153E7 /* Images.xcassets */,
 				73D2BAA31B72D387001153E7 /* LaunchScreen.xib */,
 				73D2BA981B72D387001153E7 /* Supporting Files */,
@@ -192,6 +197,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D2BABB1B72D3AB001153E7 /* dog.png in Resources */,
 				73D2BAA01B72D387001153E7 /* Main.storyboard in Resources */,
 				73D2BAA51B72D387001153E7 /* LaunchScreen.xib in Resources */,
 				73D2BAA21B72D387001153E7 /* Images.xcassets in Resources */,
@@ -202,6 +208,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D2BABC1B72D3AB001153E7 /* dog.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +228,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D2BABD1B72D8B2001153E7 /* ViewController.swift in Sources */,
 				73D2BAB11B72D387001153E7 /* Years_of_the_DogTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
